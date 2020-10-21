@@ -127,13 +127,13 @@
                 <!-- The slideshow -->
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="1.jpg" alt="Los Angeles" width="50%" height="auto">
+                    <img src="1.jpg" alt="Los Angeles" width="50%" height="50%">
                   </div>
                   <div class="carousel-item">
-                    <img src="2.jpg" alt="Chicago" width="50%" height="auto">
+                    <img src="2.jpg" alt="Chicago" width="50%" height="50%">
                   </div>
                   <div class="carousel-item">
-                    <img src="3.jpg" alt="New York" width="50%" height="auto">
+                    <img src="3.jpg" alt="New York" width="50%" height="50%">
                   </div>
                 </div>
                 
