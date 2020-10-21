@@ -68,7 +68,7 @@
 
 
     <body>
-        <div class="jumbotron text-center" style="background-color: red; color: white;"><h1 style="margin-bottom: 20px;">Doodle</h1></div>
+        <div class="jumbotron text-center" style="background-image: linear-gradient(rgb(247, 248, 172), rgb(126, 221, 245)); color: white;"><h1 style="margin-bottom: 20px;">Doodle</h1></div>
        
         <nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
