@@ -11,6 +11,12 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
 
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
 --
 -- Database: `doodle`
 --
@@ -36,5 +42,9 @@ CREATE TABLE `participants` (
 --
 
 INSERT INTO `participants` (`fname`, `lname`, `email`, `gender`, `city`, `mobile`, `booking_time`) VALUES
-('Jay', 'Rawlani', 'jnrawlani@mitaoe.ac.i', 'M', 'Arvi', '8975919061', '21:54:18');
+('Jay', 'Rawlani', 'jnrawlani@mitaoe.ac.i', 'M', 'Pune', '8975919061', '15:45:36');
 COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
