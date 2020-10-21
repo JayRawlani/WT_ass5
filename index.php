@@ -38,10 +38,6 @@
             #demo1{
                 margin-top: 50px;
             }
-            .carousel-inner img {
-                width: 100%;
-                height: 100%;
-            }
             #home{
                 width: 100%;
                 margin: 0px auto;
