@@ -80,9 +80,9 @@
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
               <ul class="nav navbar-nav nav-pills" role="tablist">
-                <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#home" onclick="initial()">Home</a></li>
-                <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#register_form" onclick="initial1()">Register Form</a></li>
-                <li class="nav-item"><a class="nav-link" id="ii2" data-toggle="pill" href="#registrant_list" onclick="initial2()">Registrant list</a></li>
+                <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#" onclick="initial()">Home</a></li>
+                <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#" onclick="initial1()">Register Form</a></li>
+                <li class="nav-item"><a class="nav-link" id="ii2" data-toggle="pill" href="#" onclick="initial2()">Registrant list</a></li>
               </ul>
             </div>  
           </nav>
@@ -127,13 +127,13 @@
                 <!-- The slideshow -->
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="1.jpg" alt="Los Angeles" width="1100" height="500">
+                    <img src="1.jpg" alt="Los Angeles" width="50%" height="auto">
                   </div>
                   <div class="carousel-item">
-                    <img src="2.jpg" alt="Chicago" width="1100" height="500">
+                    <img src="2.jpg" alt="Chicago" width="50%" height="auto">
                   </div>
                   <div class="carousel-item">
-                    <img src="3.jpg" alt="New York" width="1100" height="500">
+                    <img src="3.jpg" alt="New York" width="50%" height="auto">
                   </div>
                 </div>
                 
